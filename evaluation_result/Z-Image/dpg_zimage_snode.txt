@@ -1,0 +1,23 @@
+Model: dpg_zimage_snode
+L1 category scores:
+	global: 78.72340425531915
+	other: 87.2
+	attribute: 88.52361028093244
+	entity: 91.50242326332794
+	relation: 93.69439071566731
+L2 category scores:
+	attribute - color: 92.62418464626192
+	attribute - other: 87.02882483370288
+	attribute - shape: 76.85589519650655
+	attribute - size: 73.55371900826447
+	attribute - texture: 88.2032667876588
+	entity - part: 85.7421875
+	entity - state: 83.73812038014783
+	entity - whole: 93.67998309025576
+	global -: 78.72340425531915
+	other - count: 84.5
+	other - text: 98.0
+	relation - non-spatial: 88.67924528301887
+	relation - spatial: 94.02308326463314
+
+DPG-Bench score: 84.98055775948995

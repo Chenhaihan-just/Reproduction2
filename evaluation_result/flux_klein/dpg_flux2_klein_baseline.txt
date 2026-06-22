@@ -1,0 +1,23 @@
+Model: dpg_flux2_klein_baseline
+L1 category scores:
+	relation: 94.66150870406189
+	attribute: 89.6792189679219
+	other: 82.8
+	entity: 91.72859450726979
+	global: 84.19452887537993
+L2 category scores:
+	attribute - color: 93.07576517812343
+	attribute - other: 87.13968957871397
+	attribute - shape: 83.4061135371179
+	attribute - size: 73.55371900826447
+	attribute - texture: 90.19963702359347
+	entity - part: 85.7421875
+	entity - state: 87.22280887011615
+	entity - whole: 93.27837666455295
+	global -: 84.19452887537993
+	other - count: 79.0
+	other - text: 98.0
+	relation - non-spatial: 90.56603773584906
+	relation - spatial: 94.92992580379224
+
+DPG-Bench score: 85.64748570036454

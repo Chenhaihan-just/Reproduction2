@@ -1,0 +1,23 @@
+Model: dpg_flux2_klein_snode_alpha07_steps2_res_space_slerp_skipfirst
+L1 category scores:
+	entity: 91.47011308562197
+	attribute: 89.97808328352261
+	global: 83.89057750759878
+	relation: 94.85493230174082
+	other: 78.8
+L2 category scores:
+	attribute - color: 93.47717009533368
+	attribute - other: 86.91796008869179
+	attribute - shape: 83.4061135371179
+	attribute - size: 74.79338842975206
+	attribute - texture: 90.56261343012704
+	entity - part: 87.109375
+	entity - state: 86.06124604012672
+	entity - whole: 93.02473050095116
+	global -: 83.89057750759878
+	other - count: 74.5
+	other - text: 96.0
+	relation - non-spatial: 88.67924528301887
+	relation - spatial: 95.25968672712284
+
+DPG-Bench score: 85.28571470591052
